@@ -1,0 +1,14 @@
+#products{
+    display: grid;
+    gap: 30px;
+    width: 40%;
+    font-size: larger;
+    
+}
+input{
+    font-size: large;
+}
+button{
+    font-size: large;
+    height: 40px;
+}
